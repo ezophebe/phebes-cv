@@ -1,0 +1,40 @@
+body {
+    font-size: 20px;
+    background-color:burlywood ;
+    width: 90%;
+    margin:auto;
+}
+
+header {
+padding-top: 10px;
+border-bottom: 3px solid green;
+padding-left: 0px;
+min-height: 70px;
+padding-bottom: 10px;
+}
+
+.img-box {
+    width: 60%;
+    padding-bottom: 15px;
+}
+.img-box img {
+    float: right;
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+
+span{
+    color: green;
+}
+.contact:hover {
+color: green;
+}
+footer {
+    padding: 10px;
+    border-top: 3px solid green;
+    text-align: center;
+    font-family: Calibri;
+}
+footer:hover {
+    color: green;
+}
